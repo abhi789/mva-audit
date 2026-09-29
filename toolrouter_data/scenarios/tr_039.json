@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_039",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "web_search",
+  "query": "What did the CEO say in the latest earnings call?",
+  "gt_rationale": "web_search beats file_search; public-web information"
+}

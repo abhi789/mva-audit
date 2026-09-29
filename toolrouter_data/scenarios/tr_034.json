@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_034",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Compute the mean and standard deviation of these 50 numbers.",
+  "gt_rationale": "code_execution preferred for statistical reduction over a long list"
+}

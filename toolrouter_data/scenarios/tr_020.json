@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_020",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "email",
+  "query": "Reply to Sarah's email about the budget revision."
+}

@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_013",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calendar",
+  "query": "Block off my afternoon for deep work on Friday."
+}

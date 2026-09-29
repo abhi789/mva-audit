@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_047",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "What is 17 squared plus 23 squared?",
+  "gt_rationale": "calculator beats code_execution; simple arithmetic"
+}

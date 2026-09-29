@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_042",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Tell me what `np.dot([1,2,3], [4,5,6])` evaluates to.",
+  "gt_rationale": "code_execution beats web_search; the answer is reproducible by execution"
+}

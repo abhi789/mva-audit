@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_045",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "Find my response to the customer's complaint from last week.",
+  "gt_rationale": "file_search beats email; 'find my response' implies retrieval"
+}

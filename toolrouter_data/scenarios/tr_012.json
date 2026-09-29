@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_012",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calendar",
+  "query": "What's on my calendar for next Tuesday?"
+}

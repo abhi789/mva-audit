@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_008",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "web_search",
+  "query": "When did the iPhone 17 launch?"
+}

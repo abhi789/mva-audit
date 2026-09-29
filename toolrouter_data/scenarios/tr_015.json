@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_015",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calendar",
+  "query": "Move my 3pm meeting to 4pm."
+}

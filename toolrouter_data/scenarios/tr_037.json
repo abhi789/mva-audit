@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_037",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "calendar",
+  "query": "When is the meeting with Acme \u2014 and email me a reminder.",
+  "gt_rationale": "calendar primary (lookup); email is a follow-up step"
+}

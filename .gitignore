@@ -1,0 +1,26 @@
+# Model outputs and derived records (may contain restricted clinical values)
+agent_runs_*/
+runs_index/
+results/*_local.json
+
+# Restricted or external data: never commit
+raw_data/
+icu_data_*/
+agent_data_*/
+*.db
+*.csv
+*.csv.gz
+*.parquet
+bfcl_data/BFCL_*.json
+bfcl_data/bfcl_sample_100*.json
+jsonschema_bench/jsonschema_sample_100*.json
+
+# Baseline and analysis outputs written to the repository root
+/*_results.json
+/*_summary.json
+/*_predictions.json
+
+__pycache__/
+*.pyc
+.DS_Store
+*.log

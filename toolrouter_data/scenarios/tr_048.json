@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_048",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Run a script that computes 17 squared plus 23 squared and writes the result to a file.",
+  "gt_rationale": "code_execution beats calculator; multi-step including I/O"
+}

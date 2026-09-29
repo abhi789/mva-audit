@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_050",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "Find the email Marcus sent me about the contract.",
+  "gt_rationale": "file_search beats email; 'find' beats 'send' in email-search vs email-compose distinction. (Note: email-search would be a 7th tool we don't have; file_search is the catch-all retrieval tool for our 6-enum.)"
+}

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_043",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "calendar",
+  "query": "Am I free Thursday afternoon for a coffee with Sam?",
+  "gt_rationale": "calendar beats email; calendar lookup, not draft"
+}

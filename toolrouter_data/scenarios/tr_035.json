@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_035",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "Find my notes on the kickoff meeting.",
+  "gt_rationale": "file_search beats email for 'find/locate' intent on documents"
+}

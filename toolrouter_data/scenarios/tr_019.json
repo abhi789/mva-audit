@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_019",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "email",
+  "query": "Send a follow-up to the candidate from yesterday's interview."
+}

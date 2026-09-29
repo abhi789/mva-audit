@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_031",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "What's 2+2 \u2014 can you look that up for me?",
+  "gt_rationale": "calculator beats web_search for arithmetic-only"
+}

@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_003",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "If I invest $5000 at 4.5% annual interest, what's the simple interest after 3 years?"
+}

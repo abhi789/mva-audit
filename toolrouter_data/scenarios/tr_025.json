@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_025",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "Find the spreadsheet with last year's expenses."
+}

@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_030",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Run a Fibonacci function in Python that returns the 30th term."
+}

@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_004",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "What is 15% of 280?"
+}

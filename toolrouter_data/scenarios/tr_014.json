@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_014",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calendar",
+  "query": "When is my next dentist appointment?"
+}

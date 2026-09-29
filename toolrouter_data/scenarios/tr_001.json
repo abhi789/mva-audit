@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_001",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "What is 1247 multiplied by 38?"
+}

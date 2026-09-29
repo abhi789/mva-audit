@@ -1,0 +1,77 @@
+{
+  "MedGemma / Gemma E4B": {
+    "a": "router/medgemma1.5_4b-it-q8_0",
+    "b": "router_gemma3n_e4b/gemma3n_e4b",
+    "n": 50,
+    "mean": -0.02,
+    "t90": [
+      -0.05353101785233709,
+      0.013531017852337072
+    ],
+    "bootstrap95": [
+      -0.06,
+      0.0
+    ],
+    "posthoc_tost_p_margin08": 0.002117948115072291
+  },
+  "BioMistral / Mistral": {
+    "a": "router/adrienbrault__biomistral-7b_Q4_K_M",
+    "b": "router/mistral_7b-instruct-v0.2-q4_K_M",
+    "n": 50,
+    "mean": -0.10000000000000002,
+    "t90": [
+      -0.18925908961021992,
+      -0.010740910389780145
+    ],
+    "bootstrap95": [
+      -0.20666666666666667,
+      0.0
+    ],
+    "posthoc_tost_p_margin08": 0.6456042318841976
+  },
+  "OpenBioLLM / Llama-3": {
+    "a": "router_exp2/koesn__llama3-openbiollm-8b_Q4_K_M",
+    "b": "router_exp2/llama3_8b-instruct-q4_K_M",
+    "n": 50,
+    "mean": -2.220446049250313e-18,
+    "t90": [
+      -0.06386860543302302,
+      0.06386860543302299
+    ],
+    "bootstrap95": [
+      -0.07333333333333333,
+      0.08
+    ],
+    "posthoc_tost_p_margin08": 0.02045004449536509
+  },
+  "Aloe / Qwen2.5": {
+    "a": "router_exp4/hf.co__mradermacher__Qwen2.5-Aloe-Beta-7B-i1-GGUF_Q4_K_M",
+    "b": "router_exp8/qwen2.5_7b-instruct-q4_K_M",
+    "n": 50,
+    "mean": -0.006666666666666665,
+    "t90": [
+      -0.055854823417055145,
+      0.04252149008372178
+    ],
+    "bootstrap95": [
+      -0.06666666666666667,
+      0.05333333333333334
+    ],
+    "posthoc_tost_p_margin08": 0.007917259468348125
+  },
+  "Med42 / Llama-3": {
+    "a": "router_med42v2/hf.co__mradermacher__Llama3-Med42-8B-GGUF_Q4_K_M",
+    "b": "router_exp2/llama3_8b-instruct-q4_K_M",
+    "n": 50,
+    "mean": 0.013333333333333332,
+    "t90": [
+      -0.02222720119003042,
+      0.04889386785669707
+    ],
+    "bootstrap95": [
+      -0.02,
+      0.06
+    ],
+    "posthoc_tost_p_margin08": 0.0014183632109603748
+  }
+}

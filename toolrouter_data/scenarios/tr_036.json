@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_036",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "email",
+  "query": "Reply to Jane with the file I just found.",
+  "gt_rationale": "email beats file_search for 'reply' intent"
+}

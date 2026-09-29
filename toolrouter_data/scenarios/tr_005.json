@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_005",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "Convert 73 degrees Fahrenheit to Celsius."
+}

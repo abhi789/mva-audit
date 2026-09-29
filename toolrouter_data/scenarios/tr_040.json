@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_040",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "I had a doc explaining this \u2014 can you pull it up?",
+  "gt_rationale": "file_search beats web_search; 'I had a doc' implies local"
+}

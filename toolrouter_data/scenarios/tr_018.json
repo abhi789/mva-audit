@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_018",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "email",
+  "query": "Forward the contract to legal@company.com."
+}

@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_016",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "email",
+  "query": "Send a reply to Marcus thanking him for the proposal."
+}

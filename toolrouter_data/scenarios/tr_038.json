@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_038",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "email",
+  "query": "Send the schedule to the team for the new quarter.",
+  "gt_rationale": "email beats calendar for 'send' intent; the calendar object is content"
+}

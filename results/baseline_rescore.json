@@ -1,0 +1,96 @@
+{
+  "MLP": {
+    "all150": {
+      "n": 150,
+      "correct": 90,
+      "accuracy": 0.6,
+      "n_valid": 150,
+      "invalid": 0,
+      "invalid_pct": 0.0,
+      "counts": {
+        "recheck_vitals": 28,
+        "continue_monitoring": 49,
+        "escalate_to_attending": 21,
+        "transfer_higher_acuity": 7,
+        "fluid_or_vasopressor_adjustment": 18,
+        "adjust_positioning_or_oxygen": 27
+      },
+      "gt_counts": {
+        "recheck_vitals": 25,
+        "continue_monitoring": 50,
+        "transfer_higher_acuity": 10,
+        "escalate_to_attending": 20,
+        "adjust_positioning_or_oxygen": 25,
+        "fluid_or_vasopressor_adjustment": 20
+      },
+      "recall": {
+        "continue_monitoring": 0.76,
+        "recheck_vitals": 0.44,
+        "adjust_positioning_or_oxygen": 0.72,
+        "fluid_or_vasopressor_adjustment": 0.25,
+        "escalate_to_attending": 0.65,
+        "transfer_higher_acuity": 0.5
+      },
+      "k": 6,
+      "H": 2.395102136519944,
+      "dom": 0.32666666666666666,
+      "M": 0,
+      "criteria": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "categories": {
+        "saved OOF": 150
+      }
+    }
+  },
+  "XGBoost": {
+    "all150": {
+      "n": 150,
+      "correct": 114,
+      "accuracy": 0.76,
+      "n_valid": 150,
+      "invalid": 0,
+      "invalid_pct": 0.0,
+      "counts": {
+        "recheck_vitals": 23,
+        "continue_monitoring": 48,
+        "escalate_to_attending": 20,
+        "transfer_higher_acuity": 13,
+        "fluid_or_vasopressor_adjustment": 20,
+        "adjust_positioning_or_oxygen": 26
+      },
+      "gt_counts": {
+        "recheck_vitals": 25,
+        "continue_monitoring": 50,
+        "transfer_higher_acuity": 10,
+        "escalate_to_attending": 20,
+        "adjust_positioning_or_oxygen": 25,
+        "fluid_or_vasopressor_adjustment": 20
+      },
+      "recall": {
+        "continue_monitoring": 0.86,
+        "recheck_vitals": 0.68,
+        "adjust_positioning_or_oxygen": 0.76,
+        "fluid_or_vasopressor_adjustment": 0.55,
+        "escalate_to_attending": 0.8,
+        "transfer_higher_acuity": 0.8
+      },
+      "k": 6,
+      "H": 2.4600560383163885,
+      "dom": 0.32,
+      "M": 0,
+      "criteria": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "categories": {
+        "saved OOF": 150
+      }
+    }
+  }
+}

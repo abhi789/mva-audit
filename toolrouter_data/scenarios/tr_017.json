@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_017",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "email",
+  "query": "Draft an email to the team announcing the new policy."
+}

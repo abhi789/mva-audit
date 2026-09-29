@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_026",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Run this Python script that processes the CSV: `import pandas as pd; df = pd.read_csv('data.csv'); print(df.describe())`."
+}

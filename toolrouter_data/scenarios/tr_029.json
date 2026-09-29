@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_029",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Plot a histogram of the values [1,1,2,3,3,3,4,5,5,5,5,6] using matplotlib."
+}

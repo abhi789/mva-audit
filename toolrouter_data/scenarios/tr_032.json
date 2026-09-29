@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_032",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "Convert 100 USD to EUR at current rates \u2014 I just need the number.",
+  "gt_rationale": "Arithmetic conversion with implied current-rate; calculator if rate is known, web_search otherwise. Tightly arithmetic intent."
+}

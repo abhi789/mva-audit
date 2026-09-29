@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_002",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calculator",
+  "query": "Compute the square root of 7921."
+}

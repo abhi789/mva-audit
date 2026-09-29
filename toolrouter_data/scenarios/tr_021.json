@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_021",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "Find the Q3 financial report I saved last month."
+}

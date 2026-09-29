@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_033",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Multiply these two matrices for me.",
+  "gt_rationale": "code_execution beats calculator for multi-element math"
+}

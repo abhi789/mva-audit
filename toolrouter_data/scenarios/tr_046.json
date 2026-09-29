@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_046",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "email",
+  "query": "Resend the response I drafted last week to the customer.",
+  "gt_rationale": "email beats file_search; 'resend' is communication intent"
+}

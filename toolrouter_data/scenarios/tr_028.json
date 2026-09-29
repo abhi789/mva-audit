@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_028",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Test this regex against the strings I'll send next: `^[A-Z]{2}\\d{4}$`."
+}

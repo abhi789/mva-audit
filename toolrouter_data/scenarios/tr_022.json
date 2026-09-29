@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_022",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "Locate all PDF files I downloaded from the conference."
+}

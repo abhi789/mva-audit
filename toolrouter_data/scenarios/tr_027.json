@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_027",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "code_execution",
+  "query": "Execute the following SQL query against the database: SELECT user_id, COUNT(*) FROM events GROUP BY user_id LIMIT 10."
+}

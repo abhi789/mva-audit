@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_049",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "web_search",
+  "query": "Look up the current ICU mortality rate in the US.",
+  "gt_rationale": "web_search beats file_search; statistic from the web"
+}

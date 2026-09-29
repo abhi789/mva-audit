@@ -1,0 +1,1697 @@
+{
+  "icu/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/gemma3n_e2b": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/phi4-mini_latest": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/koesn__llama3-openbiollm-8b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/hf.co__mradermacher__Qwen2.5-Aloe-Beta-7B-i1-GGUF_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": true
+    }
+  },
+  "icu/medgemma1.5_4b-it-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/hf.co__mradermacher__Meditron3-8B-GGUF_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "icu/meditron_7b-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "router/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router/gemma3n_e2b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router/phi4-mini_latest": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_q8/meditron_7b-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_medgemma_q4/medgemma1.5_4b-it-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_gemma3n_e4b/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_meditron3/hf.co__mradermacher__Meditron3-8B-GGUF_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_exp2/koesn__llama3-openbiollm-8b_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_exp2/llama3_8b-instruct-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_exp4/hf.co__mradermacher__Qwen2.5-Aloe-Beta-7B-i1-GGUF_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_exp8/qwen2.5_7b-instruct-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_med42v2/hf.co__mradermacher__Llama3-Med42-8B-GGUF_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_biomedllama3/hf.co__mradermacher__Bio-Medical-Llama-3-8B-GGUF_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "prompt10/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt10/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt10/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt10/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt10/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt11/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt11/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt11/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt11/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt11/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt12/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt12/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt12/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt12/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "prompt12/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "fewshot/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "fewshot/gemma3n_e2b": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "fewshot/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "fewshot/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "fewshot/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "fewshot/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "fewshot/phi4-mini_latest": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "fewshot4k/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/gemma3n_e2b": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/hf.co__mradermacher__Qwen2.5-Aloe-Beta-7B-i1-GGUF_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": true
+    }
+  },
+  "mimic/koesn__llama3-openbiollm-8b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "mimic/phi4-mini_latest": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "cot_schema/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "cot_schema/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "cot_schema/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "heldout/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "heldout/gemma3n_e2b": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "heldout/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "heldout/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "heldout/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "heldout/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "format_bullet/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_bullet/gemma3n_e2b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_bullet/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_bullet/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_bullet/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_bullet/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_bullet/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_bullet/phi4-mini_latest": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/gemma3n_e2b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_header/phi4-mini_latest": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_reverse/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_reverse/gemma3n_e2b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_reverse/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_reverse/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_reverse/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_reverse/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  },
+  "format_reverse/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "format_reverse/phi4-mini_latest": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/adrienbrault__biomistral-7b_Q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/gemma3n_e2b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/llama2_7b-chat-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/meditron_7b-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/mistral_7b-instruct-v0.2-q4_K_M": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_fewshot/phi4-mini_latest": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_temp_0p0/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_temp_0p0/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_temp_0p5/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_temp_0p5/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_temp_0p7/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_temp_0p7/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_seedextension/gemma3n_e4b": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "router_seedextension/medgemma1.5_4b-it-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "new_q8_bullet/meditron_7b-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "new_q8_header/meditron_7b-q8_0": {
+    "required_count": {
+      "1": false,
+      "2": false,
+      "3": false,
+      "4": false
+    },
+    "entropy_threshold": {
+      "0.5": false,
+      "0.75": false,
+      "1": false,
+      "1.25": false,
+      "1.5": false
+    }
+  },
+  "new_q8_reverse/meditron_7b-q8_0": {
+    "required_count": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "entropy_threshold": {
+      "0.5": true,
+      "0.75": true,
+      "1": true,
+      "1.25": true,
+      "1.5": true
+    }
+  }
+}

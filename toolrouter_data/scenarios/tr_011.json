@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_011",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "calendar",
+  "query": "Schedule a 30-minute meeting with Priya on Thursday at 2pm."
+}

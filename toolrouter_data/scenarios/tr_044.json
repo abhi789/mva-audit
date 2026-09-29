@@ -1,0 +1,7 @@
+{
+  "scenario_id": "tr_044",
+  "stratum": "ambiguous",
+  "ground_truth_tool": "email",
+  "query": "Tell Sam I'll meet them at 3pm Thursday.",
+  "gt_rationale": "email beats calendar; communication intent"
+}

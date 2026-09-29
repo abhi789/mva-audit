@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_009",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "web_search",
+  "query": "Find me reviews of the restaurant Eleven Madison Park."
+}

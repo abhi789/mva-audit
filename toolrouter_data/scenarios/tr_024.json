@@ -1,0 +1,6 @@
+{
+  "scenario_id": "tr_024",
+  "stratum": "unambiguous",
+  "ground_truth_tool": "file_search",
+  "query": "Search my documents folder for the presentation about onboarding."
+}
